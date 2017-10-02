@@ -1,5 +1,6 @@
-# Regression and your first machine learning algorithm
-Slides and exercises for the *Machine-Learning Crash Course* by ASI Data Science (University College London, 4th of October 2017). 
+# Regression and your first machine-learning algorithm
+Slides and exercises for the *Machine-Learning Crash Course* 
+by ASI Data Science (University College London, 4th of October 2017). 
 
 ## Instructions
 * For the slides from the lecture, take a look at *regression_and_first_algo.pdf*
